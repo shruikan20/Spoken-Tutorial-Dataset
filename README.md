@@ -4,7 +4,7 @@ The data has been scraped from a video lectures website called the Spoken Tutori
 
 # Cite 
 
-If you find this data useful in your research please consider citing us using the following BibTex:
+If you find this data useful in your research please cite the following paper:
 ```
 @inproceedings{gupta-etal-2021-training,
     title = "Training Data Augmentation for Code-Mixed Translation",
